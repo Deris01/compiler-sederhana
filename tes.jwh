@@ -1,8 +1,9 @@
-damel umur = 19;
+damel umur = 10 tambah 5 ping 2;
+damel batas = 15;
 
-bilih (umur langkung 15) {
-    umur = umur tambah 150;
+bilih (umur langkung batas) {
     ngendika umur;
 } kejawi {
-    ngendika umur;
+    damel sisa = batas kirang umur;
+    ngendika sisa;
 }

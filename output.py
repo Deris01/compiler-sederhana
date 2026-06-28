@@ -1,6 +1,7 @@
-umur = 19
-if (umur > 15):
-    umur = (umur + 150)
+umur = 20
+batas = 15
+if (umur > batas):
     print(umur)
 else:
-    print(umur)
+    sisa = (batas - umur)
+    print(sisa)
