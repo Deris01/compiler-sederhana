@@ -1,0 +1,8 @@
+damel umur = 19;
+
+bilih (umur langkung 15) {
+    umur = umur tambah 150;
+    ngendika umur;
+} kejawi {
+    ngendika umur;
+}
